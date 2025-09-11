@@ -7,7 +7,7 @@ To write a Python program to overload the division operator (/) in a user-define
 1.Start the program.
 2.Define a class complex to represent complex numbers.
 3.Create a constructor __init__() to initialize the real part a and imaginary part b.
-4.Overload the division operator __truediv__() to divide the corresponding real and imaginary parts of two complex numbers.
+4.Overload the division operator __truediv__() to divide the corresponding real and imaginary parts of two complex numbers. 
 5.Overload the __str__() method to return the complex number in a readable format.
 6.Create two objects Ob1 and Ob2 of the complex class with initial values.
 7.Divide Ob1 by Ob2 using the overloaded division operator and store the result in Ob3.
