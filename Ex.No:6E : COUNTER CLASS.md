@@ -1,4 +1,4 @@
-# Exp.No:30
+# Ex.No:6E
 ## COUNTER CLASS
 # AIM
 To write a Python program to create a Counter class that can increment the value of a counter.
