@@ -1,5 +1,4 @@
-# Exp.No:26
-## Method Overriding
+## Ex.No:6A Method Overriding
 # AIM
 To write a Python program to demonstrate polymorphism by creating two classes India and USA with the same method names (capital(), language(), and type()) and then accessing them using a common interface.
 
